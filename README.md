@@ -1,5 +1,5 @@
 # Airline-Reservation-System
-# #It is a Java-based GUI application which uses derby database as backend to manage its data
+# It is a Java-based GUI application which uses derby database as backend to manage its data
 
 # login page
 
